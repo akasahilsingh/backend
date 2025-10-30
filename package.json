@@ -1,0 +1,15 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "code for backened of website similar to youtube with tweet functionality",
+  "license": "ISC",
+  "author": "Sahil Singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
